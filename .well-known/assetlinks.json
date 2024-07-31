@@ -5,7 +5,8 @@
         "namespace": "android_app",
         "package_name": "com.memorilink",
         "sha256_cert_fingerprints": [
-          "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+          "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+          "93:4E:B8:C9:01:1F:A8:8E:42:34:07:74:71:25:C5:28:89:2A:6A:04:E7:B6:E6:E1:65:4C:5D:D9:9A:57:23:DA"
         ]
       }
     }
